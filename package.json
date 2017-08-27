@@ -1,0 +1,13 @@
+{
+    "name": "node_redis",
+    "description": "Teste node com redis",
+    "displayName": "node_redis",
+    "version": "1.0.0",
+    "author": {
+        "name": "Marcelo Pereira da Silva"
+    },
+    "dependencies": {
+        "express": "^4.15.4",
+        "redis": "^2.8.0"
+    }
+}
