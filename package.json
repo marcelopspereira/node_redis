@@ -4,7 +4,9 @@
     "displayName": "node_redis",
     "version": "1.0.0",
     "author": {
-        "name": "Marcelo Pereira da Silva"
+        "name": "Marcelo Pereira da Silva",
+        "email": "marcelopspereira@gmail.com",
+        "url": "https://github.com/marcelopspereira/node_redis.git"
     },
     "dependencies": {
         "express": "^4.15.4",
